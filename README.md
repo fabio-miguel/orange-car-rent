@@ -1,5 +1,4 @@
-
-![Logo](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/th5xamgrr6se0x5ro4g6.png)
+<div align='center'><img src="src/images/github/orange_car_rent_logo.png"/></div>
 
 
 # Orange Car Rent
@@ -16,7 +15,7 @@ Orange Car Rent is a (front-end) car rental website that allows users to reserve
 
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](src/images/github/orange_car_rent_screenshot.png)
 
 
 ## Installation
