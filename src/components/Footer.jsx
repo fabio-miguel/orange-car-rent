@@ -29,7 +29,11 @@ const Footer = () => {
               </li>
 
               <li>
-                <a target="_blank" href="https://fabiomiguel.com/">
+                <a
+                  target="_blank"
+                  rel="noreferrer"
+                  href="https://fabiomiguel.com/"
+                >
                   Coded by Fabio Miguel
                 </a>
               </li>
