@@ -325,7 +325,7 @@ const BookCar = () => {
         <div className="booking-modal-person-info">
           <h4>Personal Information</h4>
           <form className="info-form">
-            <div className="info-form-2col">
+            <div className="info-form-col-2">
               <span>
                 <label>
                   First Name <b>*</b>
